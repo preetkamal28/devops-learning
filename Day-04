@@ -1,0 +1,8 @@
+Day-04 - 100 days of devops
+
+Task: Grant execute permission to /tmp/xfusioncorp.sh on App server.
+
+Command used:
+sudo chmod 755 /tmp/fusioncorp.sh
+
+Result: Successfully granted execute permissions to all users.
